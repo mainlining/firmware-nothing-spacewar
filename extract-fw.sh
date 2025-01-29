@@ -115,8 +115,6 @@ for i in "${!hexagonfs_files_mapping_keys[@]}"; do
 	key="${hexagonfs_files_mapping_keys[$i]}"
 	val="${hexagonfs_files_mapping_values[$i]}"
 
-	mkdir -p "$hexagonfs_firmware_output_dir/$key"
-
 	copy_and_pull "$val" "$hexagonfs_firmware_output_dir/$key"
 done
 
