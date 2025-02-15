@@ -6,6 +6,7 @@ mcfg_sw/generic/APAC/Reliance/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/APAC/Rakuten/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/APAC/DITO/Commercial/Philippines/mcfg_sw.mbn
 mcfg_sw/generic/APAC/SBM/Commercial/mcfg_sw.mbn
+mcfg_sw/generic/ASIA/Jordan_Umniah/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/AUNZ/Optus/Commercial/AU/mcfg_sw.mbn
 mcfg_sw/generic/AUNZ/Telstra/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/AUNZ/Vodafone/Commercial/mcfg_sw.mbn

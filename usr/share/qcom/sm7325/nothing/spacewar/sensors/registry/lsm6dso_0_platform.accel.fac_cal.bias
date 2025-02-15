@@ -1,1 +1,1 @@
-{"lsm6dso_0_platform.accel.fac_cal.bias":{"owner":"lsm6dso","x":{"type":"flt","ver":"2","data":"0.27337998"},"y":{"type":"flt","ver":"2","data":"0.12143575"},"z":{"type":"flt","ver":"2","data":"0.05982057"}}}
+{"lsm6dso_0_platform.accel.fac_cal.bias":{"owner":"lsm6dso","x":{"type":"flt","ver":"1","data":"0.16331014"},"y":{"type":"flt","ver":"1","data":"0.18723837"},"z":{"type":"flt","ver":"1","data":"0.09631111"}}}

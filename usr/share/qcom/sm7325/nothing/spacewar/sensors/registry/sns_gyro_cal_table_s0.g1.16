@@ -1,1 +1,1 @@
-{"sns_gyro_cal_table_s0.g1.16":{"owner":"NA","bias_0":{"type":"flt","ver":"1258","data":"-0.02192623"},"bias_1":{"type":"flt","ver":"1258","data":"-0.00097356"},"bias_2":{"type":"flt","ver":"1258","data":"0.00281761"}}}
+{"sns_gyro_cal_table_s0.g1.16":{"owner":"NA","bias_0":{"type":"flt","ver":"2378","data":"-0.00055843"},"bias_1":{"type":"flt","ver":"2378","data":"-0.00345202"},"bias_2":{"type":"flt","ver":"2378","data":"0.00531573"}}}
